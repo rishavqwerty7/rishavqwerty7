@@ -16,7 +16,7 @@
 
 <p align="center">
 A Fast learner,
-Self-driven, quick starter, passionate programmer with a curious mind who loves solving a very complex, very challenging real-world problems.</p>
+Self-driven,passionate programmer with a curious mind who loves solving a very complex, very challenging real-world problems.</p>
   
 <h3 align="center">Profiencies</h3> 
  <p align="center">
