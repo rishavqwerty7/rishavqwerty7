@@ -15,14 +15,15 @@
 </p>
 
 <p align="center">
-A passionate programmer with a curious mind who loves solving a very complex, very challenging real-world problems.</p>
+I'm a Full Stack Developer with a curious mind who loves solving a very complex as well as focuses on crafting clean and user-friendly experiences.Vigorously ready to join in a great lively team of Product based companies to adapt me in any situation and environment with ease and perform the best.
+</p>
   
 <h3 align="center">Profiencies</h3> 
  <p align="center">
-  <img src=https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg >
+  <img height="90px" src=https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg >
  </p> 
   <p  align="center">
-    <img src=https://user-images.githubusercontent.com/59872807/89734655-0bade600-da7b-11ea-91e3-a38a9d86eb25.jpg>
+    <img height="90px" src=https://user-images.githubusercontent.com/59872807/89734655-0bade600-da7b-11ea-91e3-a38a9d86eb25.jpg>
   </p>
   
 
