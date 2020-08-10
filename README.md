@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi :wave:, I'm Rishav Raj</h1>
 
-<h3 align="center">A Frontend Developer from <span>
+<h3 align="center">A Mern Stack Developer from <span>
   <img height="30px" width="30px" src=https://user-images.githubusercontent.com/59872807/89734872-6a279400-da7c-11ea-891e-86ef7e7cf071.jpg>
   <span></h3>
  <p align="center">
